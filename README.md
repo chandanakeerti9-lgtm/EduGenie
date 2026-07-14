@@ -99,6 +99,7 @@ Technologies Used
 Project Structure
 
 EduGenie/
+
 │
 ├── ai/
 │   ├── education.py
