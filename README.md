@@ -29,8 +29,10 @@ Technologies Used
 
 Project Structure
 
-EduGenie/
+## **Project Structure**
 
+```text
+EduGenie/
 │
 ├── ai/
 │   ├── education.py
