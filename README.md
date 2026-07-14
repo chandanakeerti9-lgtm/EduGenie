@@ -28,7 +28,7 @@ EduGenie is an AI-powered educational assistant built using FastAPI and Google G
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Chandana Keerthi/EduGenie.git
+   https://github.com/chandanakeerti9-lgtm/EduGenie.git
    ```
 
 2. Navigate to the project folder:
