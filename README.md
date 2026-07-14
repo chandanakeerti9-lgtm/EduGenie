@@ -2,8 +2,8 @@
 AI-powered educational assistant built with FastAPI and Google Gemini API.
 # 🎓 EduGenie - AI Educational Assistant
 
-## Author
-**Keerthi Bhavya Sri Chandana**
+# 🎓 EduGenie - AI Educational Assistant
+
 
 ## Description
 EduGenie is an AI-powered educational assistant built using FastAPI and Google Gemini API. It helps students learn by answering questions, explaining concepts, generating quizzes, summarizing text, and providing personalized learning recommendations.
@@ -75,3 +75,65 @@ This project is intended for educational purposes.
 
 ---
 **Developed by Keerthi Bhavya Sri Chandana**
+🎓 EduGenie - AI Educational Assistant
+
+EduGenie is an AI-powered educational assistant built using FastAPI and Google Gemini API. It helps students learn by answering questions, explaining concepts, generating quizzes, summarizing text, and providing personalized learning recommendations.
+
+Features
+
+- Question Answering
+- Concept Explanation
+- Quiz Generation
+- Text Summarization
+- Learning Recommendations
+- FastAPI Web Interface
+- Google Gemini Integration
+
+Technologies Used
+
+- Python
+- FastAPI
+- HTML
+- CSS
+- Google Gemini API
+
+Project Structure
+
+EduGenie/
+│
+├── ai/
+│   ├── education.py
+│   ├── gemini.py
+│   └── lamini.py
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   └── style.css
+│
+├── app.py
+├── requirements.txt
+└── README.md
+
+Installation
+
+git clone https://github.com/chandanakeerti9-lgtm/EduGenie.git
+
+cd EduGenie
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+uvicorn app:app --reload
+
+Screenshots
+
+(Add screenshots here)
+
+Author
+
+Keerthi Bhavya Sri Chandana
